@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "name": "Ronildo",
+        "desc": "Professor de programação web",
+        "local": [
+            {
+                "id": 1,
+                "class": [
+                    {
+                        "id": 1,
+                        "name": "C-01"
+                    },
+                    {
+                        "id": 2,
+                        "name": "C-02"
+                    },
+                    {
+                        "id": 3,
+                        "name": "C-03"
+                    },
+                    {
+                        "id": 4,
+                        "name": "C-04"
+                    },
+                    {
+                        "id": 5,
+                        "name": "C-05"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Cristiane",
+        "desc": "Professora de banco de dados",
+        "local": [
+            {
+                "id": 1,
+                "class": [
+                    {
+                        "id": 1,
+                        "name": "C-01"
+                    },
+                    {
+                        "id": 2,
+                        "name": "C-02"
+                    },
+                    {
+                        "id": 3,
+                        "name": "C-03"
+                    },
+                    {
+                        "id": 4,
+                        "name": "C-04"
+                    },
+                    {
+                        "id": 5,
+                        "name": "C-05"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Adani",
+        "desc": "Professora de algoritmos",
+        "local": [
+            {
+                "id": 1,
+                "class": [
+                    {
+                        "id": 1,
+                        "name": "C-01"
+                    },
+                    {
+                        "id": 2,
+                        "name": "C-02"
+                    },
+                    {
+                        "id": 3,
+                        "name": "C-03"
+                    },
+                    {
+                        "id": 4,
+                        "name": "C-04"
+                    },
+                    {
+                        "id": 5,
+                        "name": "C-05"
+                    }
+                ]
+            }
+        ]
+    }
+]

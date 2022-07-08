@@ -3,7 +3,7 @@ import { Transition } from '@headlessui/react';
 import Image from 'next/image';
 import Link from 'next/link';
 
-export default function Navbar() {
+export default function Navbar(){
 
 	const [isShowing, setIsShowing] = useState(false);
 
