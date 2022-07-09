@@ -54,17 +54,17 @@ export default function Navbar(){
       			</button>
 				<div className='text-white font-poppins hidden lg:block'>
 					<Link href='/'>
-						<a className='hover:bg-gray-700 py-1 px-3 rounded h-min w-fit mx-auto'>
+						<a className='hover:bg-gray-700 ease-out duration-300 py-1 px-3 rounded h-min w-fit mx-auto'>
 							Início
 						</a>
 					</Link>
 					<Link href='/personagens'>
-						<a className='hover:bg-gray-700 py-1 px-3 rounded h-min w-fit mx-auto'>
+						<a className='hover:bg-gray-700 ease-out duration-300 py-1 px-3 rounded h-min w-fit mx-auto'>
 							Personagens
 						</a>
 					</Link>
 					<Link href='/sobre'>
-						<a className='hover:bg-gray-700 py-1 px-3 rounded h-min w-fit mx-auto'>
+						<a className='hover:bg-gray-700 ease-out duration-300 py-1 px-3 rounded h-min w-fit mx-auto'>
 							Sobre
 						</a>
 					</Link>
