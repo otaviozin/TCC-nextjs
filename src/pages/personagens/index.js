@@ -3,7 +3,7 @@ import Navbar from '../../components/Navbar';
 
 export default function Personagens(){
     return(
-        <div className='bg-gray-secondary h-max'>
+        <div className='bg-gray-secondary h-max xl:pb-10'>
             <Navbar />
             <div className='bg-gray-primary font-poppins lg:rounded-2xl text-white mt-4 xl:mx-40 2xl:mx-80'>
                 <div className='p-4 text-justify lg:py-12 lg:px-40'>
