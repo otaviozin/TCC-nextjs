@@ -6,28 +6,27 @@
         "local": [
             {
                 "id": 1,
-                "class": [
-                    {
-                        "id": 1,
-                        "name": "C-01"
-                    },
-                    {
-                        "id": 2,
-                        "name": "C-02"
-                    },
-                    {
-                        "id": 3,
-                        "name": "C-03"
-                    },
-                    {
-                        "id": 4,
-                        "name": "C-04"
-                    },
-                    {
-                        "id": 5,
-                        "name": "C-05"
-                    }
-                ]
+                "name": "C-01"
+            },
+            {
+                "id": 2,
+                "name": "C-02"
+            },
+            {
+                "id": 3,
+                "name": "C-03"
+            },
+            {
+                "id": 4,
+                "name": "C-04"
+            },
+            {   
+                "id": 5,
+                "name": "C-05"
+            },
+            {   
+                "id": 6,
+                "name": "Professores"
             }
         ]
     },
@@ -38,28 +37,23 @@
         "local": [
             {
                 "id": 1,
-                "class": [
-                    {
-                        "id": 1,
-                        "name": "C-01"
-                    },
-                    {
-                        "id": 2,
-                        "name": "C-02"
-                    },
-                    {
-                        "id": 3,
-                        "name": "C-03"
-                    },
-                    {
-                        "id": 4,
-                        "name": "C-04"
-                    },
-                    {
-                        "id": 5,
-                        "name": "C-05"
-                    }
-                ]
+                "name": "C-01"
+            },
+            {
+                "id": 2,
+                "name": "C-02"
+            },
+            {
+                "id": 3,
+                "name": "C-03"
+            },
+            {
+                "id": 4,
+                "name": "C-04"
+            },
+            {   
+                "id": 5,
+                "name": "C-05"
             }
         ]
     },
@@ -70,28 +64,104 @@
         "local": [
             {
                 "id": 1,
-                "class": [
-                    {
-                        "id": 1,
-                        "name": "C-01"
-                    },
-                    {
-                        "id": 2,
-                        "name": "C-02"
-                    },
-                    {
-                        "id": 3,
-                        "name": "C-03"
-                    },
-                    {
-                        "id": 4,
-                        "name": "C-04"
-                    },
-                    {
-                        "id": 5,
-                        "name": "C-05"
-                    }
-                ]
+                "name": "C-01"
+            },
+            {
+                "id": 2,
+                "name": "C-02"
+            },
+            {
+                "id": 3,
+                "name": "C-03"
+            },
+            {
+                "id": 4,
+                "name": "C-04"
+            },
+            {   
+                "id": 5,
+                "name": "C-05"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Luciana",
+        "desc": "Professora de algoritmos",
+        "local": [
+            {
+                "id": 1,
+                "name": "C-01"
+            },
+            {
+                "id": 2,
+                "name": "C-02"
+            },
+            {
+                "id": 3,
+                "name": "C-03"
+            },
+            {
+                "id": 4,
+                "name": "C-04"
+            },
+            {   
+                "id": 5,
+                "name": "C-05"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Madu",
+        "desc": "Professor de programação web",
+        "local": [
+            {
+                "id": 1,
+                "name": "C-01"
+            },
+            {
+                "id": 2,
+                "name": "C-02"
+            },
+            {
+                "id": 3,
+                "name": "C-03"
+            },
+            {
+                "id": 4,
+                "name": "C-04"
+            },
+            {   
+                "id": 5,
+                "name": "C-05"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Henderson",
+        "desc": "Professor de programação web",
+        "local": [
+            {
+                "id": 1,
+                "name": "C-01"
+            },
+            {
+                "id": 2,
+                "name": "C-02"
+            },
+            {
+                "id": 3,
+                "name": "C-03"
+            },
+            {
+                "id": 4,
+                "name": "C-04"
+            },
+            {   
+                "id": 5,
+                "name": "C-05"
             }
         ]
     }
